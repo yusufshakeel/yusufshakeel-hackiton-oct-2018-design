@@ -14,7 +14,7 @@ Bootstrap 4
 
 
 ### License
-It's free and released under [MIT License](https://github.com/yusufshakeel/dyScrollUpJS/blob/master/LICENSE) Copyright (c) 2018 Yusuf Shakeel
+It's free and released under [MIT License](https://github.com/yusufshakeel/yusufshakeel-hackiton-oct-2018-design/blob/master/LICENSE) Copyright (c) 2018 Yusuf Shakeel
 
 ### Donate
 Feeling generous :-) Buy me a cup of tea.
